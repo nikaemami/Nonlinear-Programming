@@ -11,4 +11,10 @@ Obtain the optimal minimum value of the above function for the pairs (x_init,y_i
 
 Obtain the optimal solution of the following problem using the Pyomo library.
 
-<img src="2.png" width="150" height="80">
+<img src="2.png" width="180" height="100">
+
+<h3>Problem 3</h3>
+
+Solve the following equation:
+
+<img src="3.png" width="250" height="160">
